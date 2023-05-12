@@ -20,3 +20,13 @@ The log of my #100DaysOfCode challenge. Started on [May 10, Wednesday, 2023].
 #### React/FullStack
 - [x] Learned how to create custom hooks in react
 - [x] Learned how to perform routing in react using "react-router-dom"
+
+
+### Day3
+
+#### DSA
+- [x] Solved Problem - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [x] Tried Problem - [https://leetcode.com/problems/single-element-in-a-sorted-array/]
+
+#### React/FullStack
+- [x] performed Programming redirects using "useHistory" hook
