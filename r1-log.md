@@ -35,7 +35,6 @@ The log of my #100DaysOfCode challenge. Started on [May 10, Wednesday, 2023].
 ### Day4
 
 #### DSA
-- [x] Solved Problem - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [x] Solved Problem - [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 
 #### React/FullStack
