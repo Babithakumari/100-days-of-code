@@ -26,7 +26,18 @@ The log of my #100DaysOfCode challenge. Started on [May 10, Wednesday, 2023].
 
 #### DSA
 - [x] Solved Problem - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-- [x] Tried Problem - [https://leetcode.com/problems/single-element-in-a-sorted-array/]
+- [x] Tried Problem - [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 
 #### React/FullStack
 - [x] performed Programming redirects using "useHistory" hook
+
+
+### Day4
+
+#### DSA
+- [x] Solved Problem - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [x] Solved Problem - [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+
+#### React/FullStack
+- [x] worked on designing the BlogApp made using React
+- [x] Blog App is ready/completed now!
