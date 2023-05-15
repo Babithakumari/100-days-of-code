@@ -40,3 +40,23 @@ The log of my #100DaysOfCode challenge. Started on [May 10, Wednesday, 2023].
 #### React/FullStack
 - [x] worked on designing the BlogApp made using React
 - [x] Blog App is ready/completed now!
+
+
+### Day5
+
+#### DSA
+- [x] Solved Problem - [Contiguous subarray](https://leetcode.com/problems/contiguous-array/)
+
+#### React/FullStack
+- [x] Designing new React App
+- [x] Understanding requirements
+
+### Day5
+
+#### DSA
+- [x] Tried Problem - [Rotate Array](https://leetcode.com/problems/rotate-array//)
+
+#### React/FullStack
+- [x] created Components for new app(react)
+- [x] Styling the webpage
+
