@@ -51,7 +51,7 @@ The log of my #100DaysOfCode challenge. Started on [May 10, Wednesday, 2023].
 - [x] Designing new React App
 - [x] Understanding requirements
 
-### Day5
+### Day6
 
 #### DSA
 - [x] Tried Problem - [Rotate Array](https://leetcode.com/problems/rotate-array//)
@@ -59,4 +59,15 @@ The log of my #100DaysOfCode challenge. Started on [May 10, Wednesday, 2023].
 #### React/FullStack
 - [x] created Components for new app(react)
 - [x] Styling the webpage
+
+### Day7
+
+#### DSA
+- [x] Solved Problem - [Rotate Array](https://leetcode.com/problems/rotate-array//)
+- [x] Tried Problem - [K-th Smallest Element in a Sorted matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+
+
+#### React/FullStack
+- [x] Configure Component Props and other input elements
+- [x] Learned about different packages/ requirements for the current project
 
