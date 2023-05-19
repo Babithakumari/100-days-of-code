@@ -82,4 +82,12 @@ The log of my #100DaysOfCode challenge. Started on [May 10, Wednesday, 2023].
 #### React/FullStack
 - [x] work on the app, add new functionalities.
 
+### Day9
 
+#### DSA
+- [x] Solved Problem - [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+- [x] Solved Problem - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+
+
+#### React/FullStack
+- [x] not much work, enhancing the UI.
