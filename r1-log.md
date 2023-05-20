@@ -85,9 +85,32 @@ The log of my #100DaysOfCode challenge. Started on [May 10, Wednesday, 2023].
 ### Day9
 
 #### DSA
+- [x] Solved Problem - [Kth Largest Element in an Array using MinHeap](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [x] Solved Problem - [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
+
+
+#### React/FullStack
+- [x] working with different packages to set-up core-functionality of app, app in working condition, minor styling required.
+
+### Day10
+
+#### DSA
 - [x] Solved Problem - [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
 - [x] Solved Problem - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
 
 #### React/FullStack
 - [x] not much work, enhancing the UI.
+
+
+### Day11
+
+#### DSA
+- [x] Solved Problem - [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
+- [x] Tried Problem - [ Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
+
+
+#### React/FullStack
+- [x] Learned how to save data in localStorage in a react-app using useState and useEffect hooks
+- [x] deployed react-app
+
