@@ -114,3 +114,17 @@ The log of my #100DaysOfCode challenge. Started on [May 10, Wednesday, 2023].
 - [x] Learned how to save data in localStorage in a react-app using useState and useEffect hooks
 - [x] deployed react-app
 
+
+### Day12
+
+#### DSA
+- [x] Solved Problem - [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
+- [x] Solved Problem - [ Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
+
+
+#### React/FullStack
+- [x] Continue Fullstack course by Helsinki University
+- [x] Building a simple web-server using NodeJS and Express Library
+- [x] Building a RESTful API
+
+
