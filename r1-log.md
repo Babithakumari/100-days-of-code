@@ -127,4 +127,15 @@ The log of my #100DaysOfCode challenge. Started on [May 10, Wednesday, 2023].
 - [x] Building a simple web-server using NodeJS and Express Library
 - [x] Building a RESTful API
 
+### Day13
+
+#### DSA
+- [x] Solved Problem - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) : hashMap and Heap
+- [x] Solved Problem - [ Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) : 2 pointer approach
+
+
+#### React/FullStack
+- [x] use Postman to test API
+- [x] Learn about middleware(handle request, response object)
+- [x] Implementing custom middlewares
 
