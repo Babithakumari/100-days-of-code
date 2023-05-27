@@ -139,3 +139,43 @@ The log of my #100DaysOfCode challenge. Started on [May 10, Wednesday, 2023].
 - [x] Learn about middleware(handle request, response object)
 - [x] Implementing custom middlewares
 
+
+### Day14
+
+#### DSA
+- [x] Solved Problem - [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
+
+#### React/FullStack
+- [x] Learnt about CORS and how to handle it
+- [x] Integrating frontend and backend and deploying app using Render
+
+### Day15
+
+#### DSA
+- [x] Solved Problem - [String Compression](https://leetcode.com/problems/increasing-triplet-subsequence/)
+
+#### React/FullStack
+- [x] Streamlining deploying of the frontend
+- [x] Proxy
+
+### Day16
+
+#### DSA
+Solved Problems:
+- [x] [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
+- [x] [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
+
+#### React/FullStack
+- [x] Refreshed concepts of mongodb, connecting with app, running basic queries. 
+
+
+### Day17
+
+#### DSA
+Solved Problems(Sliding Window):
+- [x] [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
+- [x] [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
+
+#### React/FullStack
+- [x] Connect backend to a database("mongodb )
+- [x] Setting up data-configuration module
