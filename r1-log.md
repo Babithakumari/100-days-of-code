@@ -179,3 +179,15 @@ Solved Problems(Sliding Window):
 #### React/FullStack
 - [x] Connect backend to a database("mongodb )
 - [x] Setting up data-configuration module
+
+### Day18
+
+#### DSA
+Solved Problems:
+- [x] [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
+- [x] [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
+- [x] [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)
+
+#### React/FullStack
+- [x] Completed Exercises 3.9, 3.10, 3.11, 3.12 
+- [x] Perform error handling using middleware
