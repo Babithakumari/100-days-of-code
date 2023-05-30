@@ -189,5 +189,29 @@ Solved Problems:
 - [x] [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)
 
 #### React/FullStack
-- [x] Completed Exercises 3.9, 3.10, 3.11, 3.12 
+- [x] Completed Exercises 3.9, 3.10, 3.11, 3.12, 3.13, 3.14
 - [x] Perform error handling using middleware
+- [x] Understand the order of middleware loading in NodeJS
+
+
+### Day19
+
+#### DSA
+Solved Problems:
+- [x] [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/)
+
+#### React/FullStack
+- [x] Completed 3.15, 3.16, 3.17, 3.18
+- [x] Perform database operations(Update, Delete, Insert) using methods such as findByIdAndRemove, findByIdAndUpdate provided by mongoose module.
+
+### Day20
+
+#### DSA
+Solved Problems:
+- [x] [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
+- [x] [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
+
+#### React/FullStack
+- [x] Learnt about validation and ESLint
+- [x] Use of validators in mongoose
+- [x] Setup Linter for a project
