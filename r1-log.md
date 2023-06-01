@@ -215,3 +215,14 @@ Solved Problems:
 - [x] Learnt about validation and ESLint
 - [x] Use of validators in mongoose
 - [x] Setup Linter for a project
+
+### Day21
+
+#### DSA
+Solved Problems:
+- [x] [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
+- [x] [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
+
+#### React/FullStack
+- [x] Completed Exercise 3.22 - fixing linter issues
+- [x] Understand the strucure of NodeJS application to adhere to NodeJS best pracices
