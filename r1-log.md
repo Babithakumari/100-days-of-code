@@ -226,3 +226,22 @@ Solved Problems:
 #### React/FullStack
 - [x] Completed Exercise 3.22 - fixing linter issues
 - [x] Understand the strucure of NodeJS application to adhere to NodeJS best pracices
+
+### Day22
+
+#### DSA
+Solved Problems:
+- [x] [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)
+- [x] [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)
+
+#### React/FullStack
+- [x] understood strucutre of NodeJS app
+
+### Day23
+
+#### DSA
+- [x]Solved [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
+- [x] Tried problem[ Path Sum III](https://leetcode.com/problems/path-sum-iii/)
+
+#### React/FullStack
+- [x] did nothing
