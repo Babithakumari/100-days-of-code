@@ -245,3 +245,35 @@ Solved Problems:
 
 #### React/FullStack
 - [x] did nothing
+
+### Day24
+
+#### DSA
+- [x]Solved [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)
+- [x] Tried problem[ Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
+
+#### React/FullStack
+- [x] writing tests for nodeJS apps
+
+### Day25
+
+#### DSA
+Solved Problems
+- [x] [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/solution/)
+- [x] [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
+
+#### React/FullStack 
+- [x] understanding the 'supertest' package to write tests for API
+
+### Day26
+
+#### DSA
+Solved Problem
+- [x] [Evaluate Division](https://leetcode.com/problems/evaluate-division/)
+Tried Problem
+- [x] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
+
+#### React/FullStack 
+- [x] Initializing the database before tests
+- [x] Learn about async/await. Modify API routes to be async.
+- [x] Error handling using try-catch block in asynch/await block
