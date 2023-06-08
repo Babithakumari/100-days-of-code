@@ -277,3 +277,16 @@ Tried Problem
 - [x] Initializing the database before tests
 - [x] Learn about async/await. Modify API routes to be async.
 - [x] Error handling using try-catch block in asynch/await block
+
+### Day27
+
+#### DSA
+Solved Problem
+- [x] [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)
+Tried Problem
+- [x] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
+
+#### React/FullStack 
+- [x] Eliminating try-catch module by using express-async-errors library
+- [x] Optimizing test module
+- [x] Completed Ex - 4.8, 4.9, 4.12 of [fullstack course](https://fullstackopen.com/en/part4/testing_the_backend#exercises-4-8-4-12)
