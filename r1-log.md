@@ -283,10 +283,33 @@ Tried Problem
 #### DSA
 Solved Problem
 - [x] [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)
-Tried Problem
 - [x] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
 
 #### React/FullStack 
 - [x] Eliminating try-catch module by using express-async-errors library
 - [x] Optimizing test module
-- [x] Completed Ex - 4.8, 4.9, 4.12 of [fullstack course](https://fullstackopen.com/en/part4/testing_the_backend#exercises-4-8-4-12)
+- [x] Completed Ex - 4.8, 4.9, 4.10 of [fullstack course](https://fullstackopen.com/en/part4/testing_the_backend#exercises-4-8-4-12)
+
+### Day28
+
+#### DSA
+Solved Problems on Modified Binary Search
+- [x] [Find Peak Element](https://leetcode.com/problems/find-peak-element)
+- [x] [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)
+
+#### React/FullStack 
+- [x] Completed Ex 4.11, 4.12 of fullstack course
+- [x] Refactoring of tests/ Grouping of tests
+
+### Day29
+
+#### DSA
+Problems on Intervals
+- [x] [Non-overlapping Interval](https://leetcode.com/problems/non-overlapping-intervals/)
+- [x] [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+
+#### React/FullStack 
+- [x] Completed Exercises 4.13, 4.14 of fullstack course
+- [x] Learn about User authentication and authorization
+- [x] Reference across collections in mongdb
+- [x] Using the bcrypt package for generating password hashes
