@@ -313,3 +313,14 @@ Problems on Intervals
 - [x] Learn about User authentication and authorization
 - [x] Reference across collections in mongdb
 - [x] Using the bcrypt package for generating password hashes
+
+### Day30
+
+#### DSA
+Problems on Tries
+- [x] Learned about Trie data structure
+- [x] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+
+#### React/FullStack 
+- [x] Join queries in Mongoose : populate() method
+- [x] Implement token-based authentication for users
