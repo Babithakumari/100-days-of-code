@@ -324,3 +324,14 @@ Problems on Tries
 #### React/FullStack 
 - [x] Join queries in Mongoose : populate() method
 - [x] Implement token-based authentication for users
+
+### Day31
+
+#### DSA
+Problems on Tries
+- [x] [Online Stock Span](https://leetcode.com/problems/online-stock-span/)
+- [x] [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c)
+
+#### React/FullStack 
+- [x] Authenticate users via tokens using the jsonwebtokens module
+- [x] Understand the Problems of Token-based authentication and ways to resolve them
