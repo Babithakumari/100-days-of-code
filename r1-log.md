@@ -328,10 +328,37 @@ Problems on Tries
 ### Day31
 
 #### DSA
-Problems on Tries
 - [x] [Online Stock Span](https://leetcode.com/problems/online-stock-span/)
 - [x] [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c)
 
 #### React/FullStack 
 - [x] Authenticate users via tokens using the jsonwebtokens module
 - [x] Understand the Problems of Token-based authentication and ways to resolve them
+
+### Day32
+
+#### DSA
+- [x] [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
+- [x] [Dota2 Senate](https://leetcode.com/problems/dota2-senate/)
+
+#### React/FullStack 
+- [x] Set-up validity period of a token
+- [x] Understand server-side sessions for token validity
+
+### Day33
+
+#### DSA
+- [x] Understanding DP pattern: Minimum subset difference
+
+#### React/FullStack 
+- [x] setting up login interface : frontend
+
+### Day35
+
+#### DSA
+- [x] Understanding DP pattern: Count number of subset gives sum
+- [x] Revise Subset sum, Count of subset sum, Equal sum partition
+
+#### React/FullStack 
+- [x] Flux Architecture
+- [x] Understand Redux Basics
