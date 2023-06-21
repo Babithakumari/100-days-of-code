@@ -353,7 +353,7 @@ Problems on Tries
 #### React/FullStack 
 - [x] setting up login interface : frontend
 
-### Day35
+### Day34
 
 #### DSA
 - [x] Understanding DP pattern: Count number of subset gives sum
@@ -362,3 +362,38 @@ Problems on Tries
 #### React/FullStack 
 - [x] Flux Architecture
 - [x] Understand Redux Basics
+
+### Day35
+
+#### DSA
+- [x] Understanding DP pattern: target sum, very similar to count number of subset sum diff
+
+#### React/FullStack 
+- [x] creating redux stores using createStore
+- [x] Learn about pure functions/immutable
+
+### Day36
+
+#### DSA
+- [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+
+### Day37
+
+#### DSA
+- [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+- [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+#### React/FullStack 
+- [x] work on project
+
+
+### Day38
+
+#### DSA
+- [ Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+- [ Game of Life](https://leetcode.com/problems/game-of-life/)
+
+#### React/FullStack 
+- [x] work on open-source project
+
