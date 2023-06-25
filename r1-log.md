@@ -397,3 +397,27 @@ Problems on Tries
 #### React/FullStack 
 - [x] work on open-source project
 
+
+### Day39
+
+#### DSA
+- Unbounded Knapsack - Understanding problem statement and strategy to solve
+- [Rod Cutting problem](https://practice.geeksforgeeks.org/problems/rod-cutting0840/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)
+
+#### React/FullStack 
+- [x] work on open-source project
+
+### Day40
+
+#### DSA
+- [Coin Change I : Finding number of combinations](https://leetcode.com/problems/coin-change-ii/)
+- [Coin Change II : Finding minimum number of coins](https://leetcode.com/problems/coin-change/)
+
+
+### Day41
+
+#### DSA
+- [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+- [Longest Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)
+
+
