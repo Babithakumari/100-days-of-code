@@ -421,3 +421,35 @@ Problems on Tries
 - [Longest Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)
 
 
+### Day42
+
+#### DSA
+- Find length of Shortest Common Supersequence
+- Printing Shortest Common Supersequence
+
+
+
+### Day43
+
+#### DSA
+- [Longest Repeating Subsequence](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)
+- Sequence pattern matching
+
+
+### Day44
+
+#### DSA
+- Minimum number of deletions to make string a equals b
+- Longest Palindrome Subsequence
+
+### Day45
+
+#### DSA
+- Minimum number of deletions to make string palindrome
+- Minimum number of insertions to make string palindrome
+
+### Day46
+
+#### DSA
+- Minimum size subarray sum
+- Matrix Multiplication(DP) : Recursive and Bottom-up Approach
