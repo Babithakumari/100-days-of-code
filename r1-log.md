@@ -453,3 +453,72 @@ Problems on Tries
 #### DSA
 - Minimum size subarray sum
 - Matrix Multiplication(DP) : Recursive and Bottom-up Approach
+
+### Day47
+
+#### DSA
+- 
+
+### Day48
+
+#### DSA
+- Sort Colors using Quicksort/Partition
+- Find eventual safe state(BFS)
+
+
+### Day49
+
+#### DSA
+- Move Zeroes
+- Best time to buy and sell stock
+- Chocolate Distribution
+
+### Day50
+
+#### DSA
+- Remove duplicates from sorted array
+- Two sum
+- Subarray Sums divisible by k
+These were few of the basic problems on arrays, few were solved before and therefore helped
+refresh old concepts. 
+
+
+### Day51
+
+#### DSA
+- Find all duplicates in an array
+- 3sum
+
+### Day52
+
+#### DSA
+- Find all duplicates in an array
+- 3sum 
+
+### Day53
+
+#### DSA
+- Spiral Matrix
+- Subarray sum equals k
+- Max points to obtain on cards
+
+### Day54
+
+#### DSA
+- Word Search : Backtracking problem
+- Merge Sorted arrays
+- Find Majority element
+
+### Day55
+
+#### DSA
+- Best time to buy and sell stocks II: Using greedy approach
+- Jump game : Using greedy approach
+- Reverse Pairs : Merge sort
+
+### Day56
+
+#### DSA
+Topic : Arrays
+- Game of Life
+- Max Value of Equation
