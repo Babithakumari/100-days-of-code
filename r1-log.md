@@ -522,3 +522,79 @@ refresh old concepts.
 Topic : Arrays
 - Game of Life
 - Max Value of Equation
+
+### Day57
+
+#### DSA
+Topic : Arrays
+-  Insert Delete GetRandom O(1) - Duplicates allowed
+- Largest Rectangle in Histogram
+
+### Day58
+
+#### DSA
+Topic : Arrays & Strings
+- Print all combinations of r elements
+- Valid Parantheses
+- Print Duplicates in a string
+- find index of first occurence of string
+
+### Day59
+
+#### DSA
+Topic : Strings
+- Longest Common Prefix
+- Valid Palindrome II
+
+### Day60
+
+#### DSA
+Topic : Strings
+- Generate all Parantheses: A DP problem
+- Simplify Path
+- Minimum Window Substring(unsolved)
+
+### Day61
+
+#### DSA
+Topic : Strings
+- Minimum Window Substring(solved): took some time to understand the idea but made through!
+- Reverse words in a string
+
+marks day10 of #CrackYourInternship
+
+### Day62
+
+#### DSA
+Topic : Strings
+- Rabin-Karp String Matching Algorithm for pattern match
+- Group Anagrams
+
+marks day11 of #CrackYourInternship
+
+### Day63
+
+#### DSA
+Topic : Strings
+- Validate Number
+- Basic Calculator II
+
+marks day12 of #CrackYourInternship
+
+### Day64
+
+#### DSA
+Topic : Strings
+- Convert Int to English Word
+- Boyer Moore Algorithm for Pattern Searching
+
+marks day13 of #CrackYourInternship
+
+### Day65
+
+#### DSA
+Topic : Sort and Search
+- Permutation Pair greater than or equals k
+- Ceil and Floor
+
+marks day13 of #CrackYourInternship
