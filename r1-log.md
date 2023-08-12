@@ -597,4 +597,24 @@ Topic : Sort and Search
 - Permutation Pair greater than or equals k
 - Ceil and Floor
 
-marks day13 of #CrackYourInternship
+marks day14 of #CrackYourInternship
+
+### Day66
+
+#### DSA
+Topic : String
+- Text Justification
+- Distinct subsequences
+
+marks day15 of #CrackYourInternship
+
+### Day67
+
+#### DSA
+Topic : Stack
+- Nearest Largest to right/ Nearest larger element
+- Nearest Largest to left
+- Nearest Smaller to left/ Nearest smaller element
+- Nearest Smallest to right
+
+day16 of #CrackYourInternship
