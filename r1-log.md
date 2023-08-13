@@ -618,3 +618,15 @@ Topic : Stack
 - Nearest Smallest to right
 
 day16 of #CrackYourInternship
+
+### Day68
+
+#### DSA
+Topic : Stack
+- Max area of rectangle in bin matrix
+- Max area of histogram
+- Rain Water trapping
+realized these were some of the easiest problems to solve after referring 
+Aditya Verma's playlist. Do check it out!
+
+day17 of #CrackYourInternship
