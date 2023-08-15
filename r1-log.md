@@ -640,3 +640,14 @@ day17 of #CrackYourInternship
     - Spiral Matrix
 
 day18 of #CrackYourInternship
+
+### Day70
+
+#### DSA
+- Completd Matrix-problems:
+    - Rotate Image
+    - Replace 'O' with 'X'
+- Started Mathematical Problems
+    - Minimum moves to make array elements equal
+
+day19 of #CrackYourInternship
