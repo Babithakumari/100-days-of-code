@@ -651,3 +651,13 @@ day18 of #CrackYourInternship
     - Minimum moves to make array elements equal
 
 day19 of #CrackYourInternship
+
+### Day71
+
+#### DSA
+topic : Mathematical Problems
+- Add numbers
+- Max product of 3 numbers
+- Excel sheet title
+
+day20 of #CrackYourInternship
