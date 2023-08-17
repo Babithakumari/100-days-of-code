@@ -661,3 +661,14 @@ topic : Mathematical Problems
 - Excel sheet title
 
 day20 of #CrackYourInternship
+
+### Day72
+
+#### DSA
+topic : Mathematical Problems
+- Happy Number
+- Palindrome Number
+- Missing Number 
+Although had done these before, refreshed concepts after a long while!
+
+day21 of #CrackYourInternship
