@@ -672,3 +672,14 @@ topic : Mathematical Problems
 Although had done these before, refreshed concepts after a long while!
 
 day21 of #CrackYourInternship
+
+### Day73
+
+#### DSA
+topic : Mathematical Problems
+- Reverse Integer
+- Power of 2
+- max points on line
+- Valid square
+
+day22 of #CrackYourInternship
