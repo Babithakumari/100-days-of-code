@@ -683,3 +683,12 @@ topic : Mathematical Problems
 - Valid square
 
 day22 of #CrackYourInternship
+
+### Day74
+
+#### DSA
+- k-th factor of n
+- find a pair with a given difference
+- check if reverse of subarray makes array sorted
+
+day23 of #CrackYourInternship
