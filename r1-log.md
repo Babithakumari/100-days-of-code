@@ -692,3 +692,12 @@ day22 of #CrackYourInternship
 - check if reverse of subarray makes array sorted
 
 day23 of #CrackYourInternship
+
+### Day75
+
+#### DSA
+- Radix Sort
+- Product of Array except self
+- Make array elements equal using min operations
+
+day24 of #CrackYourInternship
