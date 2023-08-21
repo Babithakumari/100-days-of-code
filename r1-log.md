@@ -701,3 +701,11 @@ day23 of #CrackYourInternship
 - Make array elements equal using min operations
 
 day24 of #CrackYourInternship
+
+### Day76
+
+#### DSA
+- Allocate no of pages ( Variant of binary search)
+- Find Peak Element(variant of binary search)
+
+day25 of #CrackYourInternship
