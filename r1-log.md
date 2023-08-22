@@ -709,3 +709,11 @@ day24 of #CrackYourInternship
 - Find Peak Element(variant of binary search)
 
 day25 of #CrackYourInternship
+
+### Day77
+
+#### DSA
+- Min no of swaps to sort element ( A graph problem)
+- Aggressive Cows(Binary Search)
+
+day26 of #CrackYourInternship
