@@ -717,3 +717,11 @@ day25 of #CrackYourInternship
 - Aggressive Cows(Binary Search)
 
 day26 of #CrackYourInternship
+
+### Day78
+
+#### DSA
+- Search in rotated sorted array: Based on binary search
+- Count of smaller numbers after self : Based on BST
+
+day27 of #CrackYourInternship
