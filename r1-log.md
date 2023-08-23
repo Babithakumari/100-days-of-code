@@ -723,5 +723,6 @@ day26 of #CrackYourInternship
 #### DSA
 - Search in rotated sorted array: Based on binary search
 - Count of smaller numbers after self : Based on BST
+- Maximum units on a truck : used greedy approach
 
 day27 of #CrackYourInternship
