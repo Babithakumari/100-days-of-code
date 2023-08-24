@@ -726,3 +726,13 @@ day26 of #CrackYourInternship
 - Maximum units on a truck : used greedy approach
 
 day27 of #CrackYourInternship
+
+### Day79
+
+#### DSA
+- Split Array Largest sum
+- Middle of Linkedlist
+- cycle in a linkedlist
+- convert binary number in linkedlist to integer 
+
+day28 of #CrackYourInternship
