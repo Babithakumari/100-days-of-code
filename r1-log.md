@@ -736,3 +736,15 @@ day27 of #CrackYourInternship
 - convert binary number in linkedlist to integer 
 
 day28 of #CrackYourInternship
+
+### Day80
+
+#### DSA
+Topic : LinkedList
+- Remove duplicates from sorted list
+- Sort a linked list of 0s,1s,2s
+- Reverse a Linked list
+- Merge two sorted lists
+
+
+day29 of #CrackYourInternship
