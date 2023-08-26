@@ -748,3 +748,14 @@ Topic : LinkedList
 
 
 day29 of #CrackYourInternship
+
+### Day81
+
+#### DSA
+Topic : LinkedList
+- Intersection of 2 linked list
+- Delete node(head of linked list not given)
+- Palindromic Linked list
+- Copy list with random pointer
+
+day30 of #CrackYourInternship
