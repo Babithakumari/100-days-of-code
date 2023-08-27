@@ -759,3 +759,13 @@ Topic : LinkedList
 - Copy list with random pointer
 
 day30 of #CrackYourInternship
+
+### Day82
+
+#### DSA
+Topic : LinkedList
+- Add two number II
+- Reverse linked list between left and right positions
+- Remove n-th node from linked list
+
+day31 of #CrackYourInternship
