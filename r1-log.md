@@ -769,3 +769,14 @@ Topic : LinkedList
 - Remove n-th node from linked list
 
 day31 of #CrackYourInternship
+
+### Day83
+
+#### DSA
+Topic : LinkedList
+- Partition List
+- Remove duplicates from sorted list II
+- Linked list in zigzag fashion
+- Segregate even and odd elements in Linkedlist
+
+day32 of #CrackYourInternship
