@@ -780,3 +780,13 @@ Topic : LinkedList
 - Segregate even and odd elements in Linkedlist
 
 day32 of #CrackYourInternship
+
+### Day84
+
+#### DSA
+Topic : LinkedList
+- Rearrange a given linked list in place
+- Merge k sorted lists
+- Reverse nodes in k-groups
+
+day33 of #CrackYourInternship
