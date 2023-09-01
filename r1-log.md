@@ -790,3 +790,12 @@ Topic : LinkedList
 - Reverse nodes in k-groups
 
 day33 of #CrackYourInternship
+
+### Day85
+
+#### DSA
+Topic : LinkedList
+- Apply merge sort in a linked list
+- Subtract 2 numbers as linked list
+
+day34 of #CrackYourInternship
