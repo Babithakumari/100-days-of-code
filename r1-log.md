@@ -799,3 +799,12 @@ Topic : LinkedList
 - Subtract 2 numbers as linked list
 
 day34 of #CrackYourInternship
+
+### Day86
+
+#### DSA
+Topic : LinkedList
+- Flatten a linked list
+- Flatten a Multilevel Doubly linked list
+
+day35 of #CrackYourInternship
