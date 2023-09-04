@@ -808,3 +808,15 @@ Topic : LinkedList
 - Flatten a Multilevel Doubly linked list
 
 day35 of #CrackYourInternship
+
+### Day87
+
+#### DSA
+Topic : Stack and queues
+- Implement stack using queue
+- Implement queue using stack
+- Implement 2 stacks using array
+- Next greater element I
+- Evaluate postfix
+
+day36 of #CrackYourInternship
