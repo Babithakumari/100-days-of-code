@@ -834,9 +834,28 @@ day37 of #CrackYourInternship
 ### Day89
 
 #### DSA
+- Find largest Number after max-k swaps
+- Permutation in string
+
+day38 of #CrackYourInternship
+
+### Day90
+
+#### DSA
 Topic : Stack and queues
-- Flatten list iterator
+- Flatten Nested list iterator
 - The celebrity problem
 - LRU Cache Implementation
 
-day38 of #CrackYourInternship
+day39 of #CrackYourInternship
+
+### Day91
+
+#### DSA
+Topic : Trees
+- Diameter of a binary tree
+- Invert Binary tree
+- Subtree of another tree
+- Range sum bst
+
+day40 of #CrackYourInternship
