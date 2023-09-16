@@ -869,3 +869,13 @@ Topic : Trees
 - Merge two trees
 
 day41 of #CrackYourInternship
+
+### Day93
+
+#### DSA
+Topic : Trees
+- Max Depth of a binary tree
+- Same tree
+- Binary tree paths
+
+day43 of #CrackYourInternship
