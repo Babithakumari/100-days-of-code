@@ -879,3 +879,23 @@ Topic : Trees
 - Binary tree paths
 
 day43 of #CrackYourInternship
+
+### Day94
+
+#### DSA
+Topic : Trees
+- LCA of 2 nodes in a BST
+- Path sum
+- Minimum absolute difference in a bst
+
+day44 of #CrackYourInternship
+
+### Day95
+
+#### DSA
+Topic : Trees
+- Sum of left leaves
+- Balanced Binary Tree
+- Binary tree Inorder Traversal
+
+day45 of #CrackYourInternship
