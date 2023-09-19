@@ -899,3 +899,13 @@ Topic : Trees
 - Binary tree Inorder Traversal
 
 day45 of #CrackYourInternship
+
+### Day96
+
+#### DSA
+Topic : Trees
+- Predecessor and Successor
+- Binary search tree iterator
+- Check whether bst contains deadend
+
+day46 of #CrackYourInternship
