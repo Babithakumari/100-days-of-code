@@ -909,3 +909,23 @@ Topic : Trees
 - Check whether bst contains deadend
 
 day46 of #CrackYourInternship
+
+### Day97
+
+#### DSA
+Topic : Trees
+- Unique binary search tree
+- All nodes within k-distance of a binary tree
+- 
+
+day47 of #CrackYourInternship
+
+### Day98
+
+#### DSA
+Topic : Trees
+- Validate BST
+- Binary tree right side view
+- Binary tree level order traversal
+
+day48 of #CrackYourInternship
