@@ -929,3 +929,21 @@ Topic : Trees
 - Binary tree level order traversal
 
 day48 of #CrackYourInternship
+
+### Day99
+
+#### DSA
+- Constructing Binary Tree from Preorder and Postorder
+- Remove Redundant Connection
+- Remove all occurences of a substring
+
+day49 of #CrackYourInternship
+
+### Day100
+
+#### DSA
+- Recover binary search tree
+- Populating Next Right pointers in each node
+- Flatten binary tree to linked list
+
+day50 of #CrackYourInternship
